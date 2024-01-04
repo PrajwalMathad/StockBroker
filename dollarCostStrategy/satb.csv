@@ -1,0 +1,4 @@
+Symbol,Weight,Amount,Commission-Fee,StartDate,EndDate,Frequency(in Days),LastProcessedDate
+INFY,50.0,2000.0,5.0,2022-06-01,null,30,2022-11-30
+GOOG,25.0
+T,25.0
